@@ -1,6 +1,6 @@
 # Senior React Developer
 
-Making smart decisions, managing risks, and taking ownership to build scalable React applications with modern patterns and a UX-first approach.
+Clean architecture, predictable code, and zero surprises — so your team ships faster with less firefighting
 
 - 👉 **Portfolio:** https://meeshan.dev
 - 👉 **Why hire me:** https://meeshan.dev/why-hire-me
