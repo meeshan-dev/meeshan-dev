@@ -1,6 +1,6 @@
 # Senior React Engineer
 
-I bring deep React expertise and a performance-first mindset to build composable, maintainable systems without shortcuts, so teams can move fast without constantly putting out fires.
+Focused on performance, accessibility, and user experience. I build scalable systems that let teams move fast without accumulating technical debt.
 
 - 👉 **Portfolio:** https://meeshan.dev
 - 👉 **Storybook:** https://storybook.meeshan.dev
